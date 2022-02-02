@@ -1,0 +1,11 @@
+/.idea
+.DS_Store
+.ipynb_checkpoints
+__pycache__
+test.py
+/_MACOSX
+*.pkl
+*.params
+*.data
+*-wrong.jpg
+alex_net_plus.py
